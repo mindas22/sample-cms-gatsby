@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
@@ -84,6 +83,11 @@ pricing:
         - One or two varieties of beans"
       plan: Small
       price: '50'
+    - description: SUper duper sitas
+      items:
+        - items? kas tai yra?
+      plan: SUper duper 120
+      price: '120'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
@@ -99,3 +103,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
